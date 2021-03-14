@@ -25,8 +25,8 @@ Scroll down below and click on a resource to explore more.<br/>
 | [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
 | [MATLAB](https://chill-three.github.io/matlab.github.io/) | This is a list of my completed starter projects utilizing MATLAB. The MATLAB starter projects featured on this website are my attempts at previously assigned Java school assignments. |
 | [MARS 4.5 (MIPS Programming)](https://chill-three.github.io/mars.github.io/) | This is a list of my completed starter projects utilizing MARS 4.5. Projects were used to receive credit from an educational institution.|
-| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects utilizing p5.js. The p5.js starter projects featured on this website are my attempts at the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
 | [Tinkercad](https://chill-three.github.io/tinkercad.github.io/) | This is a list of my completed projects using Tinkercad. Projects were used to receive credit from an educational institution. |
+| [Vivado (FPGA Development)](https://chill-three.github.io/vivado.github.io/) | This is a list of my completed projects utilizing Vivado Design Suite. The Vivado Design Suite starter projects featured on this website are my attempts at completing starter projects on the Artix-7 FPGA Family (Package: cpg236)(Part xc7a35tcpg236-1). |
 
 {: .tablelines}
 <!-- End of Table of Contents (Programs & Descriptions) -->
