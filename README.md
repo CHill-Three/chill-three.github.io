@@ -57,3 +57,4 @@ Hey there! I'm Charles Hill and welcome to my github.io projects repository whic
 > ## Future Plans:
 >
 >> - To add a "Description" section for all projects in order to provide an overview about the completed projects.
+>> - To add a an "About Me" section for the repository homepage in order to provide page vistors with a description about myself.
