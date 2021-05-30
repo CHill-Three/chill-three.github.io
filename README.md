@@ -3,7 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io Projects Homepage
-Hey there! Welcome to my first repository created on (7/20/2020)<br/>
+Hey there! Welcome to my github.io Projects repository created on July 20, 2020.<br/>
 This is the homepage for my list of program project repositories and helpful resources.<br/>
 Scroll down below and click on a resource to explore more.<br/>
 
@@ -55,3 +55,7 @@ Scroll down below and click on a resource to explore more.<br/>
 >> - Added Arduino - Project 9: Ultrasonic Sensor Module (8/5/2020)
 >> - Added Arduino - Project 8: Servo (8/1/2020)
 >> - Added Arduino - Project 7: Tilt Ball Switch (7/31/2020)
+
+> ## Future Plans:
+>
+>> - To add a "Description" section for all projects in order to provide an overview about the completed projects.
