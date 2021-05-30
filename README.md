@@ -3,7 +3,6 @@
 
 <!-- Title -->
 # CHill-Three's github.io Projects Homepage
-Hey there! I'm Charles Hill and welcome to my github.io projects repository which was created on July 20, 2020. This is the homepage for my list of program project repositories and helpful resources. Scroll down below and click on a resource to explore more!<br/>
 
 <!-- Featured Project -->
 ## ⭐ Featured Project ⭐
