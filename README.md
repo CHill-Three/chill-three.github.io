@@ -19,7 +19,7 @@
 
 | Program List | Description |
 | :-: | --- |
-| [Arduino](https://chill-three.github.io/arduino.github.io/) | Arduino is an educational C-programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
+| [Arduino](https://chill-three.github.io/arduino.github.io/) | Arduino is an educational C-programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed projects from the starter projects derived from Elegoo’s Arduino manuel. |
 | [MATLAB](https://chill-three.github.io/matlab.github.io/) | MATLAB is a programming platform resource designed for users to create and/or modify electronic system designs. This is a list of my completed starter projects utilizing MATLAB. |
 | [MARS 4.5 (MIPS Programming)](https://chill-three.github.io/mars.github.io/) | MARS 4.5 is a free educational resource focusing on microprocessor without interlocked pipelined stages (MIPS) programming, where users can create and/or modify their assembly language code. This is a list of my completed starter projects utilizing MARS 4.5. |
 | [Tinkercad](https://chill-three.github.io/tinkercad.github.io/) | Tinkercad is a free and online educational resource for computer-aided design (CAD) purposes, where users can create and/or modify electronic designs. This is a list of my completed projects using Tinkercad. |
